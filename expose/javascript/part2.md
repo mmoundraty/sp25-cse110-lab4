@@ -10,9 +10,17 @@
 10. Line 12 will print the value 3 because the length of the prices array is 3
 11.  This function returns ```[ 50, 100, 150 ]``` because the values from finalPrice are being pushed into the array discounted
 12.
-  a. ```student.name```
-  b.  ```student['Grad Year']```
-  c.  ```student.greeting()```
-  d.  ```student['Favorite Teacher'].name```
-  e. ```student.courseLoad[0]```
+  a. ```student.name``` <br />
+  b.  ```student['Grad Year']``` <br />
+  c.  ```student.greeting()``` <br />
+  d.  ```student['Favorite Teacher'].name``` <br />
+  e. ```student.courseLoad[0]``` <br />
 13. 
+  a. 32 <br />
+  b. 1 <br />
+  c. 3 <br />
+  d. 3null <br />
+  e. 4 <br />
+  f. 0 <br />
+  g. 3undefined <br />
+  h. NaN <br />
