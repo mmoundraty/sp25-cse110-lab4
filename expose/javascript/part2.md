@@ -14,7 +14,7 @@
   b.  ```student['Grad Year']``` <br />
   c.  ```student.greeting()``` <br />
   d.  ```student['Favorite Teacher'].name``` <br />
-  e. ```student.courseLoad[0]``` <br />
+  e. ```student.courseLoad[0]``` <br /><br />
 13. 
   a. 32 <br />
   b. 1 <br />
