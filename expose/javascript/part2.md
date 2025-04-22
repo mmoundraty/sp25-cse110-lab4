@@ -33,3 +33,4 @@
   f. true
 15. ```==``` converts values into the same data type before being compared, while ```===``` compares values without converting into the same data type
 17. The result of the function would be ```[ 2, 4, 6 ]```. Taking the parameters ```[1, 2, 3] doSomething``` in modifyArray, the for loop pushes each element that the callback transforms the given value from each index.
+19. The output of the code is ```1 4 3 2```
