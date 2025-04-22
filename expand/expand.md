@@ -1,1 +1,1 @@
-
+1. Developers think that JavaScript's asynchronous nature is an issue because it's hard to follow code that depends on other events that cause delays. Loose typing is also an issue in JavaScript because examples like debugging the calculator from this lab were due to not specifying a variables data type, which can cause confusion as to  why the calculator just concatenates the numbers together instead of adding them together. Browsers can be a pain point because not all browsers are the same so whatever code works on one browser may not working on the other browser.
