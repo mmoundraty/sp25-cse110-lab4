@@ -24,13 +24,13 @@
 - f. 0
 - g. 3undefined
 - h. NaN
-14. 
-  a. true
-  b. false
-  c. true
-  d. false
-  e. false
-  f. true
+14.
+- a. true
+- b. false
+- c. true
+- d. false
+- e. false
+- f. true
 
 15. ```==``` converts values into the same data type before being compared, while ```===``` compares values without converting into the same data type
 17. The result of the function would be ```[ 2, 4, 6 ]```. Taking the parameters ```[1, 2, 3] doSomething``` in modifyArray, the for loop pushes each element that the callback transforms the given value from each index.
