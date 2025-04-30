@@ -1,4 +1,5 @@
-1. Line 12 will print the value 3 because line 12 is printing the index value
+### Q1
+Line 12 will print the value 3 because line 12 is printing the index value
 2. Line 13 will print the value 150 because line 13 is printing the discountedPrice variable in the most recent iteration which is the value 150
 3. Line 14 will print the value 150 because line 14 is printing the finalPrice variable in the most recent iteration which is the value 150
 4. This function returns ```[ 50, 100, 150 ]``` because the values from finalPrice are being pushed into the array discounted
